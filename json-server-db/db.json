@@ -1,0 +1,206 @@
+{
+  "raw": [
+    {
+      "posts": [
+        {
+          "id": 1,
+          "title": "react"
+        },
+        {
+          "id": 2,
+          "title": "redux"
+        },
+        {
+          "id": 3,
+          "title": "json-server"
+        },
+        {
+          "id": 4,
+          "title": "axios"
+        },
+        {
+          "id": 5,
+          "title": "webpack"
+        }
+      ]
+    },
+    {
+      "comments": [
+        {
+          "id": 1,
+          "body": "some comment",
+          "postId": 1
+        }
+      ]
+    },
+    {
+      "profile": {
+        "name": "typicode"
+      }
+    }
+  ],
+  "demo": [
+    {
+      "{\"session\":{\"session\":\"ddd95a5bc8a1f73f0839d55aca05b152\",\"level\":\"info\",\"log\":[\"Demo app running...\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}}": "",
+      "id": 1
+    },
+    {
+      "{\"session\":{\"id\":\"30a2616019550d68add118c3a5b033a3\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 2
+    },
+    {
+      "{\"session\":{\"id\":\"30a2616019550d68add118c3a5b033a3\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 3
+    },
+    {
+      "{\"session\":{\"id\":\"30a2616019550d68add118c3a5b033a3\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 4
+    },
+    {
+      "{\"session\":{\"id\":\"eeb346b2c0c4ed06f4825e10d31c61b9\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 5
+    },
+    {
+      "{\"session\":{\"id\":\"eeb346b2c0c4ed06f4825e10d31c61b9\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 6
+    },
+    {
+      "{\"session\":{\"id\":\"eeb346b2c0c4ed06f4825e10d31c61b9\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 7
+    },
+    {
+      "{\"session\":{\"id\":\"eeb346b2c0c4ed06f4825e10d31c61b9\",\"level\":\"debug\",\"log\":[\"class Demo::setHook()\",{\"hookFunction\":\"hookFunction\",\"hookData\":\"webpack\"}]}}": "",
+      "id": 8
+    },
+    {
+      "{\"session\":{\"id\":\"79464774b36a0abeafc59aa9640167d6\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 9
+    },
+    {
+      "{\"session\":{\"id\":\"79464774b36a0abeafc59aa9640167d6\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 10
+    },
+    {
+      "{\"session\":{\"id\":\"79464774b36a0abeafc59aa9640167d6\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 11
+    },
+    {
+      "{\"session\":{\"id\":\"aa1c306ef4fc370f2e11f81ed96d7d7a\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 12
+    },
+    {
+      "{\"session\":{\"id\":\"aa1c306ef4fc370f2e11f81ed96d7d7a\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 13
+    },
+    {
+      "{\"session\":{\"id\":\"aa1c306ef4fc370f2e11f81ed96d7d7a\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 14
+    },
+    {
+      "{\"session\":{\"id\":\"5f82c9883c1023268ea10c7facf714a3\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 15
+    },
+    {
+      "{\"session\":{\"id\":\"5f82c9883c1023268ea10c7facf714a3\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 16
+    },
+    {
+      "{\"session\":{\"id\":\"5f82c9883c1023268ea10c7facf714a3\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 17
+    },
+    {
+      "{\"session\":{\"id\":\"9b227165403d3157bcd230c18ecddf3d\",\"level\":\"info\",\"log\":[\"Demo app running...\"]}}": "",
+      "id": 18
+    },
+    {
+      "{\"session\":{\"id\":\"9b227165403d3157bcd230c18ecddf3d\",\"level\":\"debug\",\"log\":[\"class Demo::constructor(props, context)\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}},{}]}}": "",
+      "id": 19
+    },
+    {
+      "{\"session\":{\"id\":\"9b227165403d3157bcd230c18ecddf3d\",\"level\":\"debug\",\"log\":[\"class Demo::componentWillReceiveProps\",{\"dataUrl\":\"http://localhost:3004/raw\",\"loggerUrl\":\"http://localhost:3004/demo\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{\"jsonPath\":\"$..posts\",\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}]}}]}}": "",
+      "id": 20
+    },
+    {
+      "{\"session\":{\"id\":\"9b227165403d3157bcd230c18ecddf3d\",\"level\":\"debug\",\"log\":[\"class Demo::render()\",{\"data\":[{\"id\":1,\"title\":\"react\"},{\"id\":2,\"title\":\"redux\"},{\"id\":3,\"title\":\"json-server\"},{\"id\":4,\"title\":\"axios\"},{\"id\":5,\"title\":\"webpack\"}],\"hookFunction\":\"hookFunction\"}]}}": "",
+      "id": 21
+    }
+  ],
+  "hook": [
+    {
+      "{\"text\":{\"hookFunction\":\"hookFunction\",\"hookData\":\"webpack\"}}": "",
+      "id": 1
+    },
+    {
+      "{\"text\":{\"hookFunction\":\"hookFunction\",\"hookData\":\"redux\"}}": "",
+      "id": 2
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\"]}": "",
+      "id": 3
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3000/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 4
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 5
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 6
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 7
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 8
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 9
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 10
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 11
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 12
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 13
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 14
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 15
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 16
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 17
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 18
+    },
+    {
+      "{\"type\":\"info\",\"log\":[\"hi\",{\"dataUrl\":\"http://localhost:3004/raw\",\"jsonPath\":\"$..posts\",\"dataHook\":\"hookFunction\",\"initialCSSConfig\":{\"custom\":\"custom-property\"},\"data\":{}}]}": "",
+      "id": 19
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Project template</title>
+    <meta name="description" content="Simple Table">
+
+    <!-- Use minimum-scale=1 to enable GPU rasterization -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=0, maximum-scale=1, minimum-scale=1"
+    >
+    <style type="text/css">
+        .initialConfig {
+            --custom-property: custom-property;
+        }
+    </style>
+
+  </head>
+
+  <body>
+        <div class="app initialConfig"
+             data-url="http://localhost:3004/raw"
+             data-logger-url="http://localhost:3004/demo"
+             data-hook-on-element-selected="hookFunction"
+             data-json-path="$..posts">
+        </div>
+
+        <script src="app.js"></script>
+
+        <script type="text/javascript">
+            function hookFunction(rowData){
+                console.log('\'on element selected\' hook result', rowData);
+            }
+        </script>
+  </body>
+</html>
